@@ -26,12 +26,12 @@ I ❤️ **Python** and **Finance** ✨
 
 <div align=center>
 
-![HAERANGMAN's github stats](https://github-readme-stats.vercel.app/api?username=HAERANGMAN&theme=react&show_icons=true,prs&cache_seconds=1800)
-![HAERANGMAN's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN&theme=react&show_icons=true)
+![hye-y's github stats](https://github-readme-stats.vercel.app/api?username=hye-y&theme=react&show_icons=true,prs&cache_seconds=1800)
+![hye-y's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-y&theme=react&show_icons=true)
 </div>
 
 <div align=center>
 	
 ##### Thanks for visiting!
-![HAERANGMAN's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)
+![hye-y's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhye-y1212%2Fhit-counter)
 </div>
