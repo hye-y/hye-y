@@ -10,16 +10,6 @@ I ❤️ **Python** and **Finance** ✨
 - Machine Learning
 - Deep Learning
 - Data Science
-
-## 🌍 Economic news
-- Korea finance
-- Global finance
-
-## 📝 Study
-- Certificate
-- book summary
-
-
 	
 ##### Thanks for visiting!
 
